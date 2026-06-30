@@ -44,7 +44,7 @@ REST APIs • Authentication & Authorization • Database Design • Backend Arc
 - Deliver end-to-end features from UI design to deployment.
 - Collaborate within Agile teams through code reviews and Git workflows.
  
-### Backend Developer at Websolixs** (2025-Present)
+### Backend Developer at Websolixs (2025-Present)
 - Manage backend logic, workflows, and complete server-side architecture of multiple projects.
 - Owned database architecture, including schema design, relationships, and query optimization.
 - Implemented secure and maintainable backend services using FastAPI, Node.js, and databases.
@@ -52,7 +52,7 @@ REST APIs • Authentication & Authorization • Database Design • Backend Arc
 - Collaborated closely with frontend teams to ensure seamless API integration and performance.
 - Improved API response time and optimized database queries.
 
-### Full Stack Web Developer Trainee at SeeBiz** (2024-2025)
+### Full Stack Web Developer Trainee at SeeBiz (2024-2025)
 - Built responsive, real-time web apps including a social platform with chat, feeds, and notifications.
 - Developed secure authentication with password reset & email verification.
 - Created scalable architecture and improved performance metrics.
