@@ -119,6 +119,23 @@ I enjoy solving real engineering problems around **system architecture, database
 
 # 💼 Professional Experience
 
+## Application Developer — Kloudville
+
+**Oct 2026 – Present** 
+
+Working with **KloudVille**, an enterprise software solutions company, supporting **Ooredoo's digital marketplace and product catalog operations**.
+
+* Manage and maintain marketplace product listings through an enterprise web-based platform.
+* Configure product information, including **technical specifications, pricing, images, and product attributes**.
+* Support catalog management for telecommunications products, smartphones, routers, and other digital marketplace offerings.
+* Ensure **product data accuracy, consistency, and completeness** across marketplace listings.
+* Work with structured product information and enterprise catalog management workflows.
+* Gain hands-on experience with **enterprise application environments, product lifecycle workflows, and digital commerce operations**.
+
+**Focus Areas:** `Enterprise Applications` · `Product Catalog Management` · `Digital Commerce` · `Product Data Management` · `Marketplace Operations`
+
+---
+
 ## Full-Stack Software Engineer — The Social Nexus
 
 **July 2025 – Oct 2026**
