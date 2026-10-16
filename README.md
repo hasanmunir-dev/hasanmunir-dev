@@ -14,8 +14,7 @@ I enjoy solving real engineering problems around **system architecture, database
 
 ## 👨‍💻 About Me
 
-* 💼 **Full-Stack Software Engineer** at The Social Nexus
-* 🚀 **Backend Developer** at Websolixs
+* 💼 **Application Developer** at Kloudville
 * 🧑‍💻 Experience building and maintaining production web applications
 * 🏗️ Strong focus on **backend architecture, REST APIs, database design, and scalable systems**
 * 🔐 Experience with **authentication, authorization, RBAC, JWT, OAuth, and database-level security**
@@ -122,7 +121,7 @@ I enjoy solving real engineering problems around **system architecture, database
 
 ## Full-Stack Software Engineer — The Social Nexus
 
-**2025 – Present**
+**July 2025 – Oct 2026**
 
 Building and maintaining production-grade applications across frontend, backend, database, and infrastructure layers.
 
@@ -137,7 +136,7 @@ Building and maintaining production-grade applications across frontend, backend,
 * Work with Git-based development workflows, code reviews, issue tracking, and Agile practices.
 
 ---
-
+<!--
 ## Backend Developer — Websolixs
 
 **2025 – Present**
@@ -154,7 +153,8 @@ Focused on backend architecture, APIs, database systems, integrations, and appli
 * Diagnose backend bottlenecks and optimize API/database performance.
 * Contribute to deployment and production maintenance.
 
----
+--- 
+-->
 
 ## Full-Stack Web Developer Trainee — SeeBiz
 
